@@ -102,3 +102,38 @@ Minority Rights Groups International: http://responsibilitytoprotect.org/MRG_Sri
 As stated before, the need to build understanding of the situation of Sri Lanka is the purpose of this project. As it is a complex history and we are looking to build a story that we will be telling with data, my method here will to use a loose and easy to follow-timeline broken into major eras. The timeline will be build using a combination of historic context and visualizations of data that illustrate the situation.  This timeline started to come together as I built out my initial sketches of the project. I aim to use data to help illustrate three narratives that tie into a larger cohesive narrative of a history of discrimination and persecution of marginalized communities in Sri Lanka. The first era will be between Independence and the War, where I will help lay out a narrative of the discriminatory policies by the Sri Lankan Government that helped lead to increasing tensions. The second narrative will be to discuss the War itself and the atrocities committed during it, in particular during the final stages of the war in 2009. The third narrative will be of a hard peace and continued struggles of marginalized communities on the island. Together, this will be tied together into a larger narrative of a history of discrimination and persecution of marginalized communities in Sri Lanka. At the end of the project, there will be a call to action with ways to advocate for or otherwise contribute to efforts for Sri Lanka’s marginalized communities, with the hope that the increased understanding of the severity of the situation will help spur the audience member to action.
 
 The medium that I plan on using is Shorthand. From the examples that were provided through this class and through the website, as well, it seems appropriate for the narrative that I’m looking to tell. It provides an easy to scroll through and a method that if utilized appropriately can be very visually appealing. In particular, I think it is particular conducive to the adjusted timeline organization that I plan on using or this project, which is the most important reason for me opting for this medium. 
+
+# Part II
+
+## User Research Protocol 
+
+a.	Target Audience
+The target audience that I wanted to target with my story was the general public. In the wake of the Easter Sunday Bombings, there was a lot of discussion of Sri Lanka, but not a lot of understanding of its complex history. As a result, lost in the narrative in the general conscience was the understanding of the arduous plight of minority communities in that country over decades. It is important to put out the narrative of the realities of Sri Lanka, as the government, for decades, has been involved in cover-ups and spinning a narrative to the international community in an attempt to evade accountability. Without increasing awareness of Sri Lanka, an understanding which requires an understanding of the nation’s complex history, international action is highly unlikely – without which minority communities will remain under threat. My goal with this project is to condense over 70 year of a very complicated history into an understandable and informative piece of information for the general reader.
+
+b.	My Approach To Identifying Representative Individuals To Target:
+To identify representative individuals to target, I considered individuals that I knew who would read the type of informational material that I was about to prepare but weren’t too well-versed on Sri Lanka. These were individuals that I regularly discussed the news with and who I knew consistently read informative publications, but who I had not had many discussions around Sri Lanka with. I also found individuals who weren’t particularly avid readers or news junkies, because my target audience is the general public, and while those who follow the news more closely are more likely to read the type of material I was producing, I wanted it to be informative to the average person . Ahead of asking them questions about how I was structuring my presentation, I asked them a few questions to gauge their familiarity with the topic. 
+
+c.	My Interview Script: 
+
+  1.	Screening Questions on Sri Lanka Knowledge
+  2.	Walk Through of My Outline With Narrative and Basic Figures
+  3.	Walk Through of My Storyboard
+  4.	Questions – Major Questions (Which Depending On Answers I Tailored Follow-Up Questions For More Information):
+    a.	Can you briefly summarize what you learned?
+    b.	What were your major takeaways?
+    c.	What aspects did you find confusing?
+    d.	Would you recommending keeping the JVP section in the presentation?
+    e.	Are there any structural improvements you would recommend?
+    f.	Any general feedback or constructive criticism?
+    g.	Does this provide a compelling case for my call to action?
+    d.	The Findings from my Interviews:
+    
+The interviews provided some useful insight in terms of what my audience was looking for. I had a tendency to get bogged down on the details, as it is a complex situation over a long period of time. However, speaking to my audience they reminded me that I needed to provide a more general overview and focus on critical facts and information, in particular numbers, that would help bolster my case and illustrate the severity of the situation. I also was considering including discussion on the violent crackdown against the JVP communist uprisings against the government in the 1970s and 1980s, which helped add context to the Sri Lankan’ government’s approach of killing with impunity. However, feedback from the audience confirmed some of my fears of this being a confusing subplot in the greater narrative, which should focus more on the ethnic strife to form a more cohesive narrative for the general public.
+
+e.	Changes Implemented To Story Board:
+
+The interviews I conducted were highly useful in informing the development of my final story boards. For one thing, the emphasis that each interviewee placed on the need to provide context regarding the groups being addressed in Sri Lanka made me reassess the structure and how it flowed. In particular, it made me reassess how I broke the history into eras, and what critical flashpoints I should use to help anchor and drive the story. It led to a simplified and less convoluted story board than I had initially created, as it made me focus on the story because beforehand I was getting bogged down in the details when designing the structure.
+
+
+# Part III
+
