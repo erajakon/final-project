@@ -1,33 +1,57 @@
 # Final Project
 
+# Part 1
 ## Outline
 Sri Lanka: A History of Discrimination and Persecution
 
 High Level Summary: The project aims to use data to help illustrate the plight of minority communities, particularly that of the Tamil population, in Sri Lanka over the last 71 years. By using data to help illustrate the severity of these struggles, the aim is to issue a call to action at the end which will resonate with the reader.
 
 I.	Between Independence and War (1948 – 1983)
+
   a.	Context Given On Roots Of Tension
+  
     i.	Discussion of Sri Lanka’s Ethnic Makeup
+    
     ii.	The use of Sinhala-Buddhist Nationalism for Political Gain
-  b.	History of Discrimination by Government
+ 
+ b.	History of Discrimination by Government
+ 
     i.	Effect of discriminatory government policies on minority communities
-  c.	Potential Discussion of JVP Uprising of 1971
+    
+ c.	Potential Discussion of JVP Uprising of 1971
+ 
     i.	Provides context of government killing with impunity
-  d.	Lead-Up to the War
+    
+ d.	Lead-Up to the War
+ 
     i.	Discussion of escalation of tensions, including the burning of the Jaffna Library
- II.	The War (1983 – 2009)
+    
+II.	The War (1983 – 2009)
+ 
   a.	Black July Pogrom
+  
   b.	Context of who was involved in the War 
+    
     i.	Understanding the LTTE
+  
   c.	The Toll
+    
     i.	Emphasis on Civilian Toll
+    
   d.	Final Stages of War
+    
     i.	Scale of Human Rights Violations and Genocide
+    
 III.	A Hard Peace and Rising Tensions (2009 – Present)
+
   a.	Limited Press Freedom
+  
   b.	Continued Militarization of North and East
+  
   c.	Second Highest Number of Missing People in the World
+  
   d.	Continued Protests since 2010
+  
   e.	Increase in violence against Muslim Communities
 
 ## Initial Sketches
