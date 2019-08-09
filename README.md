@@ -114,11 +114,11 @@ b.	My Approach To Identifying Representative Individuals To Target:
 To identify representative individuals to target, I considered individuals that I knew who would read the type of informational material that I was about to prepare but weren’t too well-versed on Sri Lanka. These were individuals that I regularly discussed the news with and who I knew consistently read informative publications, but who I had not had many discussions around Sri Lanka with. I also found individuals who weren’t particularly avid readers or news junkies, because my target audience is the general public, and while those who follow the news more closely are more likely to read the type of material I was producing, I wanted it to be informative to the average person . Ahead of asking them questions about how I was structuring my presentation, I asked them a few questions to gauge their familiarity with the topic. 
 
 c.	My Interview Script: 
-
   1.	Screening Questions on Sri Lanka Knowledge
   2.	Walk Through of My Outline With Narrative and Basic Figures
   3.	Walk Through of My Storyboard
   4.	Questions – Major Questions (Which Depending On Answers I Tailored Follow-Up Questions For More Information):
+    
     a.	Can you briefly summarize what you learned?
     b.	What were your major takeaways?
     c.	What aspects did you find confusing?
@@ -126,12 +126,11 @@ c.	My Interview Script:
     e.	Are there any structural improvements you would recommend?
     f.	Any general feedback or constructive criticism?
     g.	Does this provide a compelling case for my call to action?
-    d.	The Findings from my Interviews:
     
+d.	The Findings from my Interviews: 
 The interviews provided some useful insight in terms of what my audience was looking for. I had a tendency to get bogged down on the details, as it is a complex situation over a long period of time. However, speaking to my audience they reminded me that I needed to provide a more general overview and focus on critical facts and information, in particular numbers, that would help bolster my case and illustrate the severity of the situation. I also was considering including discussion on the violent crackdown against the JVP communist uprisings against the government in the 1970s and 1980s, which helped add context to the Sri Lankan’ government’s approach of killing with impunity. However, feedback from the audience confirmed some of my fears of this being a confusing subplot in the greater narrative, which should focus more on the ethnic strife to form a more cohesive narrative for the general public.
 
 e.	Changes Implemented To Story Board:
-
 The interviews I conducted were highly useful in informing the development of my final story boards. For one thing, the emphasis that each interviewee placed on the need to provide context regarding the groups being addressed in Sri Lanka made me reassess the structure and how it flowed. In particular, it made me reassess how I broke the history into eras, and what critical flashpoints I should use to help anchor and drive the story. It led to a simplified and less convoluted story board than I had initially created, as it made me focus on the story because beforehand I was getting bogged down in the details when designing the structure.
 
 
