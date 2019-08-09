@@ -7,7 +7,7 @@ High Level Summary: The project aims to use data to help illustrate the plight o
 
 I.	Between Independence and War (1948 – 1983)
   a.	Context Given On Roots Of Tension
-     i.	Discussion of Sri Lanka’s Ethnic Makeup
+    i.	Discussion of Sri Lanka’s Ethnic Makeup
     ii.	The use of Sinhala-Buddhist Nationalism for Political Gain
   b.	History of Discrimination by Government
     i.	Effect of discriminatory government policies on minority communities
@@ -15,7 +15,7 @@ I.	Between Independence and War (1948 – 1983)
     i.	Provides context of government killing with impunity
   d.	Lead-Up to the War
     i.	Discussion of escalation of tensions, including the burning of the Jaffna Library
-II.	The War (1983 – 2009)
+ II.	The War (1983 – 2009)
   a.	Black July Pogrom
   b.	Context of who was involved in the War 
     i.	Understanding the LTTE
